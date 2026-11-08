@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - **Designing data pipelines, analytics systems, and automation tools that drive business decisions.**
 - **Experience in FinTech, MarTech, and enterprise digital transformation.**
 
-- Skils: Python · SQL · BigQuery · Data Engineering · Analytics
+- Skils: Data Engineering · Analytics · MLops 
